@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SageCT
 - 👀 I’m interested in Machine Learning applications, 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on anything and everything!
 - 📫 How to reach me: 
 
