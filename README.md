@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SageCT
-- 👀 I’m interested in Machine Learning applications, 
-- 🌱 I’m currently learning HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on anything and everything!
+- 👋 Hi, I’m @SageCT, A Sophomore CS najor at University of Houston.
+- 🌱 I’m currently learning HTML, CSS, and JS.
+- 💞️ I’m looking for opportunities to learn and sharpen my skills.
 - 📫 How to reach me: 
   - Email: sageturn01@gmail.com
 <!---
