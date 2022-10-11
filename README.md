@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SageCT, A Sophomore CS major at University of Houston.
-- 🌱 I’m currently learning HTML, CSS, and JS.
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
 - 💞️ I’m looking for opportunities to learn and sharpen my skills.
 - 📫 How to reach me: 
   - Email: sageturn01@gmail.com
