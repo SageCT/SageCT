@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SageCT, A Sophomore CS major at University of Houston.
+- 👋 Hi, I’m @SageCT, A Sophomore CS undergrad at University of Houston.
 - 🌱 I’m currently learning data structures in C++.
 - 💞️ I’m looking for opportunities to learn and sharpen my skills.
 - 📫 How to reach me: 
