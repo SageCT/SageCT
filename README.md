@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SageCT, A Sophomore CS undergrad at University of Houston.
-- 🌱 I’m currently learning web development using The Odin Project.
+- 🌱 I’m currently learning threading and higher-level memory management in C++.
 - 💞️ I’m looking for opportunities to learn and sharpen my skills.
 - 📫 How to reach me: 
   - Email: sageturn01@gmail.com
