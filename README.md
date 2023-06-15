@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sage, A Junior CS undergrad at University of Houston.
+- 👋 Hi, I’m Sage, a junior CS undergrad at University of Houston.
 - 🌱 I’m currently learning various problems on LeetCode in python, in addition to web development with Tailwind and React.
 - 💞️ I’m looking for opportunities to learn and sharpen my skills.
 - 📫 How to reach me: 
