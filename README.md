@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sage, a junior CS undergrad at University of Houston.
-- 🌱 I’m currently learning various problems on LeetCode in Python, in addition to web development with Tailwind and Svelte/React.
+- 👋 Hi, I’m Sage, a senior CS undergrad at University of Houston.
+- 🌱 I’m currently learning app development using Swift and Xcode, in addition to web development with Tailwind and Svelte/React.
 - 💞️ I’m looking for opportunities to learn and sharpen my skills.
 - 📫 How to reach me: 
   - Email: sageturn01@gmail.com
